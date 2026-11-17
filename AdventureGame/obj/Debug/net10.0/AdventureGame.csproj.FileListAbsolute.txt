@@ -1,0 +1,14 @@
+/Users/shpatdev/RiderProjects/AdventureGame/AdventureGame/bin/Debug/net10.0/AdventureGame
+/Users/shpatdev/RiderProjects/AdventureGame/AdventureGame/bin/Debug/net10.0/AdventureGame.deps.json
+/Users/shpatdev/RiderProjects/AdventureGame/AdventureGame/bin/Debug/net10.0/AdventureGame.runtimeconfig.json
+/Users/shpatdev/RiderProjects/AdventureGame/AdventureGame/bin/Debug/net10.0/AdventureGame.dll
+/Users/shpatdev/RiderProjects/AdventureGame/AdventureGame/bin/Debug/net10.0/AdventureGame.pdb
+/Users/shpatdev/RiderProjects/AdventureGame/AdventureGame/obj/Debug/net10.0/AdventureGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shpatdev/RiderProjects/AdventureGame/AdventureGame/obj/Debug/net10.0/AdventureGame.AssemblyInfoInputs.cache
+/Users/shpatdev/RiderProjects/AdventureGame/AdventureGame/obj/Debug/net10.0/AdventureGame.AssemblyInfo.cs
+/Users/shpatdev/RiderProjects/AdventureGame/AdventureGame/obj/Debug/net10.0/AdventureGame.csproj.CoreCompileInputs.cache
+/Users/shpatdev/RiderProjects/AdventureGame/AdventureGame/obj/Debug/net10.0/AdventureGame.dll
+/Users/shpatdev/RiderProjects/AdventureGame/AdventureGame/obj/Debug/net10.0/refint/AdventureGame.dll
+/Users/shpatdev/RiderProjects/AdventureGame/AdventureGame/obj/Debug/net10.0/AdventureGame.pdb
+/Users/shpatdev/RiderProjects/AdventureGame/AdventureGame/obj/Debug/net10.0/AdventureGame.genruntimeconfig.cache
+/Users/shpatdev/RiderProjects/AdventureGame/AdventureGame/obj/Debug/net10.0/ref/AdventureGame.dll
