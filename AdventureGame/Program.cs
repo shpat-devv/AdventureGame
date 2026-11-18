@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Net.Http;
+using AdventureGame.Models;
 
 namespace AdventureGame
 {
@@ -23,7 +24,12 @@ namespace AdventureGame
                         string password = Console.ReadLine();
                         
                         if (username is not null && password is not null)
-                            await Client.LoginOrRegister(input, username, password);
+                        {
+                            User newUser = new User();
+                            newUser.Username = username;
+                            newUser.Password = password;
+                            await Client.LoginOrRegister(input, newUser);
+                        }
                     }
                     else
                         Console.WriteLine("Invalid input. Please enter 'L' or 'R'.");
